@@ -61,11 +61,11 @@ This workflow represents a practical end-to-end analytics process.
 ## How to Run This Project
 
 ### Clone the Repository
-git clone https://github.com/Manavkhandelwal401/Retail-Business-Data-Quality-Analytics.git
-cd Retail-Business-Data-Quality-Analytics
+- git clone https://github.com/Manavkhandelwal401/Retail-Business-Data-Quality-Analytics.git
+- cd Retail-Business-Data-Quality-Analytics
 
-##install dependencies
-pip install -r requirements.txt
+###install dependencies
+- pip install -r requirements.txt
 
 
 ##
