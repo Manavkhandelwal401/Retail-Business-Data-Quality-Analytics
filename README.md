@@ -55,3 +55,19 @@ This workflow represents a practical end-to-end analytics process.
 - SQL queries for business-level metrics
 - Power BI dashboard for sales and profit analysis
 - Architecture diagram explaining the workflow
+
+---
+
+## How to Run This Project
+
+### Clone the Repository
+git clone https://github.com/Manavkhandelwal401/Retail-Business-Data-Quality-Analytics.git
+cd Retail-Business-Data-Quality-Analytics
+
+##install dependencies
+pip install -r requirements.txt
+
+
+##
+```md
+The cleaned dataset is reused consistently across SQL, Excel, and Power BI to ensure data accuracy and reporting consistency.
