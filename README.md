@@ -55,6 +55,3 @@ This workflow represents a practical end-to-end analytics process.
 - SQL queries for business-level metrics
 - Power BI dashboard for sales and profit analysis
 - Architecture diagram explaining the workflow
-
-## Notes
-This project reflects a student-level analytics workflow with a professional mindset, focused on building strong fundamentals in data quality and business-oriented analysis.
