@@ -2,22 +2,22 @@
 
 ## Overview
 This project is part of my learning journey in data and business analytics.  
-The main objective is to understand how data quality issues affect business reporting and how analytical tools can be used to convert raw retail data into meaningful insights.
+It focuses on understanding how data quality issues impact business reporting and how raw retail data can be transformed into reliable, decision-ready insights.
 
-The project focuses on clarity, correctness, and practical business understanding rather than only technical complexity.
+The project follows a practical, end-to-end analytics workflow using Python, SQL, Excel, and Power BI, with emphasis on clarity, correctness, and business relevance.
 
 ---
 
 ## Problem Statement
-In real-world business data, issues such as missing values, duplicates, and inconsistencies are common.  
-If not handled properly, these problems can lead to inaccurate analysis and poor decision-making.
+In real-world business environments, data often contains missing values, inconsistencies, and duplicates.  
+If these issues are not addressed, analytical results and business decisions can become unreliable.
 
-This project explores common data quality issues in a retail dataset and demonstrates how they can be addressed during analysis.
+This project explores common data quality issues in retail sales data and demonstrates how they can be identified, cleaned, and validated during analysis.
 
 ---
 
 ## Tools and Technologies
-- Python (pandas, numpy, matplotlib)
+- Python (pandas, numpy, matplotlib, seaborn)
 - SQL
 - Excel
 - Power BI
@@ -25,36 +25,37 @@ This project explores common data quality issues in a retail dataset and demonst
 ---
 
 ## Project Architecture
-The project follows a simple and structured analytics workflow:
+The project follows a structured analytics workflow:
 
-1. Raw retail data is explored and cleaned using Python.
-2. SQL is used to generate business-level metrics and insights.
-3. Excel is used for quick summaries and validation.
-4. Power BI dashboards are created for interactive reporting.
+1. Raw retail sales data is sourced from CSV files.
+2. Data cleaning and exploratory data analysis (EDA) are performed using Python in Jupyter Notebook.
+3. SQL queries are used to generate business-level metrics and aggregations.
+4. Excel is used for quick validation and summaries.
+5. Power BI dashboards are created for interactive reporting and insights.
 
-This workflow represents a practical end-to-end analytics process.
+This workflow reflects a practical data analytics approach commonly used in business analysis.
 
 ---
 
-## Key Learnings
-- Importance of data quality in business analytics
-- Practical use of Python and SQL for analysis
-- How clean data improves decision-making
-- Presenting insights using dashboards and reports
+## Key Analysis Areas
+- Data quality checks (missing values, duplicates, data types)
+- Exploratory data analysis to understand distributions and trends
+- SQL-based revenue and profit analysis
+- KPI-driven Power BI dashboards
 
 ---
 
 ## Reporting and Visualization
-- Excel pivot tables for quick analysis
-- Power BI dashboards for interactive reporting
+- Excel pivot tables for structured summaries  
+- Power BI dashboards for interactive sales and profit analysis  
 
 ---
 
 ## Project Outputs
 - Cleaned and validated retail dataset
-- SQL queries for business-level metrics
-- Power BI dashboard for sales and profit analysis
-- Architecture diagram explaining the workflow
+- SQL queries for business metrics
+- Power BI dashboard showing revenue, profit, and trends
+- Architecture diagram explaining the analysis flow
 
 ---
 
