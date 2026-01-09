@@ -1,49 +1,55 @@
-# Retail Business Data Quality Analytics
+Retail Business Data Quality Analytics
+Overview
 
-## Overview
-This project was created as part of my learning journey in data and business analytics. The main focus of the project is to understand how data quality impacts business reporting and how analytical tools can be used to convert raw data into meaningful insights.
+This project is part of my learning journey in data and business analytics. The main objective is to understand how data quality issues affect business reporting and how analytical tools can be used to convert raw retail data into meaningful insights.
 
-Rather than focusing only on technical implementation, the project emphasizes clarity, correctness, and practical understanding of business data.
+The project focuses on clarity, correctness, and practical business understanding rather than only technical complexity.
 
----
+Problem Statement
 
-## Problem Statement
-In real-world business scenarios, data is often incomplete, inconsistent, or duplicated. If such issues are ignored, they can lead to inaccurate reports and poor decision-making. This project explores common data quality problems in retail data and demonstrates how they can be addressed during analysis.
+In real-world business data, issues such as missing values, duplicates, and inconsistencies are common. If not handled properly, these problems can lead to inaccurate analysis and poor decision-making.
+This project explores such data quality issues in a retail dataset and demonstrates how they can be addressed during analysis.
 
----
+Tools and Technologies
 
-## Tools and Technologies
-- Python (pandas, numpy, matplotlib)
-- SQL
-- Excel
-- Power BI
-- Basic Statistics
+Python (pandas, numpy, matplotlib)
 
----
+SQL
 
-## Approach
-1. Explored the dataset to understand its structure and potential data quality issues.
-2. Performed data cleaning and validation to handle missing values and duplicates.
-3. Used SQL queries to analyze sales data and generate aggregated metrics.
-4. Applied basic statistical analysis to identify trends and patterns.
-5. Created Excel summaries and Power BI dashboards for clear and simple reporting.
-6. Documented assumptions and observations to improve transparency and understanding.
+Excel
 
----
+Power BI
 
-## Key Learnings
-- Importance of data quality in business analytics
-- Practical use of SQL and Python for analysis
-- How clean data improves the reliability of insights
-- Presenting analytical results in a clear and structured way
+Project Architecture
 
----
+The project follows a simple and structured analytics workflow:
 
-## Reporting and Visualization
-- Excel pivot tables for quick analysis
-- Power BI dashboards for interactive reporting
+Raw retail data is explored and cleaned using Python.
 
----
+SQL is used to generate business-level metrics and insights.
 
-## Notes
-This project is intended to reflect a student-level analytics workflow with a professional mindset, focusing on building a strong foundation in data quality and business-focused analysis.
+Excel is used for quick summaries and validation.
+
+Power BI dashboards are created for interactive reporting and visualization.
+
+This approach reflects a practical, end-to-end analytics process commonly used in business analysis.
+
+Key Learnings
+
+Importance of data quality in business analytics
+
+Practical use of Python and SQL for analysis
+
+How clean data improves decision-making
+
+Presenting insights using clear dashboards
+
+Reporting and Visualization
+
+Excel pivot tables
+
+Power BI interactive dashboards
+
+Notes
+
+This project represents a student-level analytics workflow with a professional mindset, focused on building strong fundamentals in data quality and business-oriented analysis.
